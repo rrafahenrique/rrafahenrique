@@ -11,8 +11,8 @@ Me chamo **Rafael Henrique**, sou formado em **Licenciatura em Física**. Atualm
 <div>
 <h1 align="center">
 <a href="https://github.com/rrafahenrique">
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrafahenrique&layout=compact&langs_count=7&theme=github_dark_dimmed"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rrafahenrique&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrafahenrique&layout=compact&langs_count=7&theme=github_dark_dimmed"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=rrafahenrique&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true"/>
 </h1>
           
 </div>
