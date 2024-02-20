@@ -8,7 +8,7 @@ Me chamo **Rafael Henrique**, sou formado em **Licenciatura em Física**. Atualm
 </h1>
 
 # Área de Interesse
-- Análise de Dados
+- Ciência de Dados
 - Machine Learning
 
 # Conhecimentos Prévios
