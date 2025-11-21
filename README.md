@@ -1,9 +1,10 @@
 <h1 align="center"> Olá, Bem Vindo(a) 👋 </h1>
 
-Me chamo **Rafael Henrique**, sou formado em **Licenciatura em Física**. Atualmente estudo programação com foco da Linguagem **Python**, meus projetos no Github concentram-se em construção de games, algo que pessoalmente gosto muito e acho uma ótima forma de aprender a programar.
+Me chamo **Rafael Henrique**, sou formado em **Licenciatura em Física** e estudo programação com foco da Linguagem **Python**, busco aprender mais sobre programação e para isso acredito que o uso de jogos é ótimo para este propósito, aqui estão alguns dos meus projetos pessoais. 
+
 Também faço simulações computacionais na área de Física, estes trabalhos visam elaborar laboratórios virtuais onde alunos e professores podem usar estas simulações em sala de aula para ajudar no aprendizado e se tornar mais uma ferramenta de ensino.
 
-Neste perfil procuro mostrar um pouco dos meus trabalhos e compartilhar conhecimento.
+Atualmente busco aplicar meus conhecimentos na área de Analista de Dados/Cientista de Dados aprimorando minhas habilidades por meio de cursos, projetos práticos e análise de dados reais, buscando minha primeira oportunidade na carreira de Dados. Sou curioso, analítico e apaixonado por resolver problemas por meio de dados, sempre buscando aprender novas ferramentas e metodologias.
 
 # Linguagens e Ferramentas de Trabalho
 <h1 align="center">
