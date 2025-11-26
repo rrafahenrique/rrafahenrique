@@ -1,23 +1,31 @@
 <h1 align="center"> Olá, Bem Vindo(a) 👋 </h1>
 
-Me chamo **Rafael Henrique**, sou formado em **Licenciatura em Física** e estudo programação com foco da Linguagem **Python**, busco aprender mais sobre programação e para isso acredito que o uso de jogos é ótimo para este propósito, aqui estão alguns dos meus projetos pessoais. 
+Sou **Rafael Henrique**, formado em Física, apaixonado por tecnologia, análise de dados e solução de problemas. Minha jornada na programação começou de forma curiosa e criativa: desenvolvendo jogos em Python, o que despertou meu interesse por lógica, automação e manipulação de dados.
 
-Também faço simulações computacionais na área de Física, estes trabalhos visam elaborar laboratórios virtuais onde alunos e professores podem usar estas simulações em sala de aula para ajudar no aprendizado e se tornar mais uma ferramenta de ensino.
+Com o tempo, migrei meu foco para **Data Science** e **Análise de Dados**, áreas onde pude unir raciocínio lógico, pensamento crítico e capacidade de investigação — habilidades fundamentais desenvolvidas na Física.
 
-Atualmente busco aplicar meus conhecimentos na área de Analista de Dados/Cientista de Dados aprimorando minhas habilidades por meio de cursos, projetos práticos e análise de dados reais, buscando minha primeira oportunidade na carreira de Dados. Sou curioso, analítico e apaixonado por resolver problemas por meio de dados, sempre buscando aprender novas ferramentas e metodologias.
+Hoje, busco minha primeira oportunidade profissional como Analista de Dados ou Cientista de Dados, aplicando métodos estatísticos, programação e modelagem preditiva para gerar insights e apoiar decisões estratégicas.
 
-# Linguagens e Ferramentas de Trabalho
+## Linguagens e Ferramentas de Trabalho
 <h1 align="center">
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"/> <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/> <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 </h1>
 
-# Áreas de Interesse  📚
-Além de assuntos relacionados a Física, busco sempre está de olho nas novidades no mundo da tecnologia, algumas delas são:
-- Ciência de Dados e Big Data
-- Machine Learning
+## 🔍 O que faço atualmente
+1. Estudo e pratico Python para análise de dados
+2. Desenvolvo projetos envolvendo
+    - Limpeza e manipulação de dados
+    - Visualização com Matplotlib, Seaborn
+    - Modelos de machine learning com Scikit-Learn
+3. Aprimoro conhecimentos em: **Machine Learning**
+4. Produzo projetos pessoais para consolidar habilidades e criar um portfólio sólido
 
-# Áreas de Conhecimentos
-Aqui listo algumas áreas da tecnologia que tenho conhecimento básico, seja ele teórico ou prático:
-- Ciência de Dados 
-- Inteligência Artificial
-- Engenharia de Dados
+## 🧠 Habilidades técnicas
+- **Linguagens**: Python
+- **Bibliotecas**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
+- **Banco de dados**: SQL
+- **Machine Learning**: classificação, regressão, métricas, validação de modelos
+- **Outras habilidades**: lógica, análise crítica, resolução de problemas, organização
+
+
+
