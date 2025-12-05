@@ -2,9 +2,9 @@
 
 Sou **Rafael Henrique**, formado em Física, apaixonado por tecnologia, análise de dados e solução de problemas. Minha jornada na programação começou de forma curiosa e criativa: desenvolvendo jogos em Python, o que despertou meu interesse por lógica, automação e manipulação de dados.
 
-Com o tempo, migrei meu foco para **Data Science** e **Análise de Dados**, áreas onde pude unir raciocínio lógico, pensamento crítico e capacidade de investigação — habilidades fundamentais desenvolvidas na Física.
+Com o tempo, migrei meu foco para **Data Science**, área onde pude unir raciocínio lógico, pensamento crítico e capacidade de investigação — habilidades fundamentais desenvolvidas no curso de Física.
 
-Hoje, busco minha primeira oportunidade profissional como Analista de Dados ou Cientista de Dados, aplicando métodos estatísticos, programação e modelagem preditiva para gerar insights e apoiar decisões estratégicas.
+Hoje, busco uma oportunidade profissional como Analista de Dados/Cientista de Dados, aplicando métodos estatísticos, programação e modelagem preditiva para gerar insights e apoiar decisões estratégicas.
 
 ## Linguagens e Ferramentas de Trabalho
 <h1 align="center">
@@ -12,20 +12,15 @@ Hoje, busco minha primeira oportunidade profissional como Analista de Dados ou C
 </h1>
 
 ## 🔍 O que faço atualmente
-1. Estudo e pratico Python para análise de dados
-2. Desenvolvo projetos envolvendo
-    - Limpeza e manipulação de dados
-    - Visualização com Matplotlib, Seaborn
-    - Modelos de machine learning com Scikit-Learn
-3. Aprimoro conhecimentos em: **Machine Learning**
-4. Produzo projetos pessoais para consolidar habilidades e criar um portfólio sólido
+1. Estudo e pratico Python para ser Análista de Dados/Cientista de Dados.
+2. Desenvolvo projetos envolvendo:
+    - Limpeza, manipulação e visualização  de dados;
+    - Modelos de Machine Learning com Scikit-Learn.
 
 ## 🧠 Habilidades técnicas
-- **Linguagens**: Python
-- **Bibliotecas**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
-- **Banco de dados**: SQL
-- **Machine Learning**: classificação, regressão, métricas, validação de modelos
-- **Outras habilidades**: lógica, análise crítica, resolução de problemas, organização
-
-
+- **Linguagens**: Python;
+- **Bibliotecas**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn;
+- **Banco de dados**: SQL;
+- **Machine Learning**: Classificação, Regressão, Métricas, Validação de Modelos;
+- **Outras habilidades**: Lógica, Análise Crítica, Resolução de Problemas, Organização.
 
