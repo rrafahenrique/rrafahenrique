@@ -17,10 +17,3 @@ Hoje, busco uma oportunidade profissional como Analista de Dados/Cientista de Da
     - Limpeza, manipulação e visualização  de dados;
     - Modelos de Machine Learning com Scikit-Learn.
 
-## 🧠 Habilidades técnicas
-- **Linguagens**: Python;
-- **Bibliotecas**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn;
-- **Banco de dados**: SQL;
-- **Machine Learning**: Classificação, Regressão, Métricas, Validação de Modelos;
-- **Outras habilidades**: Lógica, Análise Crítica, Resolução de Problemas, Organização.
-
