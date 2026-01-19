@@ -1,19 +1,19 @@
 <h1 align="center"> Olá, Bem Vindo(a) 👋 </h1>
 
-Sou **Rafael Henrique**, formado em Física, apaixonado por tecnologia, análise de dados e solução de problemas. Minha jornada na programação começou de forma curiosa e criativa: desenvolvendo jogos em Python, o que despertou meu interesse por lógica, automação e manipulação de dados.
+Me chamo **Rafael Henrique**, formado em Física, apaixonado por tecnologia, análise de dados e solução de problemas. Minha jornada na programação começou de forma curiosa e criativa: desenvolvendo jogos em Python, o que despertou meu interesse por lógica, automação e manipulação de dados. Com o tempo, migrei meu foco para **Data Science**, área onde pude unir raciocínio lógico, pensamento crítico e capacidade de investigação — habilidades fundamentais desenvolvidas no curso de Física. 
 
-Com o tempo, migrei meu foco para **Data Science**, área onde pude unir raciocínio lógico, pensamento crítico e capacidade de investigação — habilidades fundamentais desenvolvidas no curso de Física.
+Hoje, busco uma oportunidade profissional como **Analista de Dados/Cientista de Dados**, aplicando métodos estatísticos, programação e modelagem preditiva para gerar insights e apoiar decisões estratégicas.
 
-Hoje, busco uma oportunidade profissional como Analista de Dados/Cientista de Dados, aplicando métodos estatísticos, programação e modelagem preditiva para gerar insights e apoiar decisões estratégicas.
+---
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## Linguagens e Ferramentas de Trabalho
-<h1 align="center">
-<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"/> <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/> <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-</h1>
+---
+![](https://github-readme-stats.vercel.app/api?username=rrafahenrique&theme=react&hide_border=false&include_all_commits=false&count_private=false)
+[![GitHub Streak](https://github-readme-streak-stats-ten-peach.vercel.app?user=rrafahenrique&theme=react&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rrafahenrique&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🔍 O que faço atualmente
-1. Estudo e pratico Python para ser Análista de Dados/Cientista de Dados.
-2. Desenvolvo projetos envolvendo:
-    - Limpeza, manipulação e visualização  de dados;
-    - Modelos de Machine Learning com Scikit-Learn.
+---
+[![](https://visitcount.itsvg.in/api?id=rrafahenrique&icon=0&color=0)](https://visitcount.itsvg.in)
 
+### Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rrafahenrique/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-henrique-a86766396) 
