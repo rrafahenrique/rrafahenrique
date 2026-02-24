@@ -1,8 +1,6 @@
 <h1 align="center"> Olá, Bem Vindo(a) 👋 </h1>
 
-Me chamo **Rafael Henrique**, formado em Física, apaixonado por tecnologia, análise de dados e solução de problemas. Minha jornada na programação começou de forma curiosa e criativa: desenvolvendo jogos em Python, o que despertou meu interesse por lógica, automação e manipulação de dados. Com o tempo, migrei meu foco para **Data Science**, área onde pude unir raciocínio lógico, pensamento crítico e capacidade de investigação — habilidades fundamentais desenvolvidas no curso de Física. 
-
-Hoje, busco uma oportunidade profissional como **Analista de Dados/Cientista de Dados**, aplicando métodos estatísticos, programação e modelagem preditiva para gerar insights e apoiar decisões estratégicas.
+Me chamo **Rafael Henrique**, formado em Física com forte base em raciocínio lógico e pensamento quantitativo. Atualmente migrando de carreira para área de Dados, possuo conhecimentos em **Machine Learning**, **Pandas** e desenvolvimento de modelos **preditivos**, **classificação**, **regressão** aplicados em projetos de estudo e práticas orientadas a dados. Tenho experiência em análise, tratamento e interpretação de dados, além de interesse contínuo em aprimorar habilidades técnicas. Busco uma oportunidade como **Analista de Dados Júnior** ou **Cientista de Dados Júnior**, onde eu possa contribuir com análises, aprender com a equipe e evoluir profissionalmente em um ambiente orientado por dados.
 
 ---
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
