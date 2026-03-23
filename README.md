@@ -3,9 +3,13 @@
 Me chamo **Rafael Henrique**, formado em Física com forte base em raciocínio lógico e pensamento quantitativo. Atualmente migrando de carreira para área de Dados, possuo conhecimentos em **Machine Learning**, **Pandas** e desenvolvimento de modelos **preditivos**, **classificação**, **regressão** aplicados em projetos de estudo e práticas orientadas a dados. Tenho experiência em análise, tratamento e interpretação de dados, além de interesse contínuo em aprimorar habilidades técnicas. Busco uma oportunidade como **Analista de Dados Júnior** ou **Cientista de Dados Júnior**, onde eu possa contribuir com análises, aprender com a equipe e evoluir profissionalmente em um ambiente orientado por dados.
 
 ---
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<h1 align = "center"> 
+  
+[![My Skills](https://skillicons.dev/icons?i=py,git,sklearn,vscode,linux,md,obsidian)](https://skillicons.dev)
 
----
+</h1>
+
+
 <h1 align = "center"> 
 
 ![Status-Grafico](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rrafahenrique&theme=react)
