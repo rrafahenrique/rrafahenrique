@@ -5,7 +5,7 @@ Me chamo **Rafael Henrique**, formado em Física com forte base em raciocínio l
 ---
 <h1 align = "center"> 
   
-[![My Skills](https://skillicons.dev/icons?i=py,git,sklearn,vscode,linux,md,obsidian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,git,sklearn,vscode,linux,md,obsidian,sqlite)](https://skillicons.dev)
 
 </h1>
 
