@@ -20,5 +20,4 @@ Me chamo **Rafael Henrique**, formado em Física com forte base em raciocínio l
 </h1>
 
 ---
-[![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-henrique-a86766396) 
-
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rafael-henrique-a86766396)
