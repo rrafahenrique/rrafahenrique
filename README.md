@@ -7,9 +7,7 @@ Sou formado em **Física**, atualmente atuo na área de **Ciência de Dados** e 
 Este perfil reúne os **projetos que desenvolvo** durante minha jornada de aprendizado em **Data Science**.
 
 ---
-
-[![My Skills](https://skillicons.dev/icons?i=py,git,sklearn,vscode,linux,md,obsidian,sqlite)](https://skillicons.dev)
-
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rafael-henrique-a86766396)
 
 <h1 align = "center"> 
 
@@ -19,6 +17,3 @@ Este perfil reúne os **projetos que desenvolvo** durante minha jornada de apren
 [![GitHub Streak](https://github-readme-streak-stats-ten-peach.vercel.app?user=rrafahenrique&theme=nord&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </h1>
-
----
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rafael-henrique-a86766396)
