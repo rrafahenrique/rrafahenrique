@@ -7,11 +7,8 @@ Sou formado em **Física**, atualmente atuo na área de **Ciência de Dados** e 
 Este perfil reúne os **projetos que desenvolvo** durante minha jornada de aprendizado em **Data Science**.
 
 ---
-<h1 align = "center"> 
-  
-[![My Skills](https://skillicons.dev/icons?i=py,git,sklearn,vscode,linux,md,obsidian,sqlite)](https://skillicons.dev)
 
-</h1>
+[![My Skills](https://skillicons.dev/icons?i=py,git,sklearn,vscode,linux,md,obsidian,sqlite)](https://skillicons.dev)
 
 
 <h1 align = "center"> 
