@@ -1,6 +1,6 @@
 <h1 align="center"> Olá, Bem Vindo(a) 👋 </h1>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="350px" max-width="350px" width="350px" align="right">
 
 Sou formado em **Física**, atualmente atuo na área de **Ciência de Dados** e **Machine Learning**. Desenvolvo projetos utilizando a linguagem Python e ferramentas como **Pandas**, **Scikit-learn**, **SQL**, aplicando técnicas de **análise exploratória de dados, modelagem e visualização de dados** para solucionar problemas de negócio. 
 
