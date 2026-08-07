@@ -13,10 +13,10 @@ Este perfil reúne os **projetos que desenvolvo** durante minha jornada de apren
 
 <h1 align = "center"> 
 
-![Status-Grafico](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rrafahenrique&theme=react)
-![Status-Pie](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rrafahenrique&theme=react)
-![Status-Repo](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rrafahenrique&theme=react)
-[![GitHub Streak](https://github-readme-streak-stats-ten-peach.vercel.app?user=rrafahenrique&theme=react&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![Status-Grafico](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rrafahenrique&theme=nord_dark)
+![Status-Pie](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rrafahenrique&theme=nord_dark)
+![Status-Repo](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rrafahenrique&theme=nord_dark)
+[![GitHub Streak](https://github-readme-streak-stats-ten-peach.vercel.app?user=rrafahenrique&theme=nord&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </h1>
 
