@@ -4,20 +4,20 @@
 
 Sou formado em **Física**, atualmente atuo na área de **Ciência de Dados** e **Machine Learning**. 
 
-Tenho interesse em utilizar dados e métodos estatísticos para compreender problemas, identificar padrões e gerar insights que auxiliem na tomada de decisões. Ao longo da minha jornada, desenvolvi projetos envolvendo análise exploratória de dados, modelagem preditiva, segmentação de clientes, detecção de anomalias e experimentação estatística. Trabalho principalmente com **Python** e **SQL**, utilizando bibliotecas e ferramentas para manipulação, análise, modelagem e visualização de dados.
+Tenho interesse em utilizar dados e métodos estatísticos para compreender problemas, identificar padrões e gerar insights que auxiliem na tomada de decisões. Ao longo da minha jornada, desenvolvi projetos envolvendo **análise exploratória de dados**, **modelagem preditiva**, **segmentação de clientes**, **detecção de anomalias** e **experimentação estatística**. Trabalho principalmente com **Python** e **SQL**, e ferramentas para manipulação, análise, modelagem e visualização de dados.
 
 Este perfil reúne projetos práticos que desenvolvo para aplicar conhecimentos, explorar novas tecnologias e aprimorar minhas habilidades na área de dados. 
 
 ## Áreas de conhecimento
 <img src="area-conhecimento.png" alt="img_pc" min-width="350px" max-width="350px" width="350px" align="right">
 
-- **Análise de Dados**: análise exploratória (EDA), tratamento de dados, identificação de padrões e análise de indicadores (KPIs).
+- **Análise de Dados**: análise exploratória (EDA), tratamento de dados, análise de indicadores (KPIs).
 - **Machine Learning**: classificação, regressão, clusterização e detecção de anomalias.
-- **Estatística e Experimentação**: testes A/B e avaliação de resultados por meio de métodos estatísticos.
-- **Banco de Dados e Engen**: bancos de dados relacionais, consultas SQL, manipulação de tabelas e estruturação de dados.
-- **Engenharia de Dados**: processos de ETL e ELT. e organização e estruturação de dados utilizando a arquitetura Medallion (Bronze, Silver e Gold).
-- **Inteligência Artificial e LLMs**: OpenAI Assistants API, Modelos de Linguagem de Grande Escala (LLMs), GPT-4, Gemini e Claude
-- **Visualização de dados e dashboards**: Excel, Google Sheets, Tableau, Databricks 
+- **Estatística e Experimentação**: testes A/B, avaliação de resultados por meio de métodos estatísticos.
+- **Banco de Dados**: bancos de dados relacionais, consultas SQL.
+- **Engenharia de Dados**: processos de ETL e ELT, Arquitetura Medallion.
+- **Inteligência Artificial e LLMs**: LLMs, Agentes de IA.
+- **Visualização de dados e dashboards**: Excel, Google Sheets, Tableau, Databricks. 
 
 ---
 <h1 align = "center"> 
