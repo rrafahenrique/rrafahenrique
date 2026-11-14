@@ -20,11 +20,20 @@ Este perfil reúne projetos práticos que desenvolvo para aplicar conhecimentos,
 - **Visualização de dados e dashboards**: Excel, Google Sheets, Tableau, Databricks. 
 
 ---
-<h1 align = "center"> 
 
-![Status-Repo](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rrafahenrique&theme=nord_dark)
-[![GitHub Streak](https://github-readme-streak-stats-ten-peach.vercel.app?user=rrafahenrique&theme=nord&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<div align="center">
+  <table>
+    <tr>
+      <td width="65%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rrafahenrique&theme=nord_dark&animation=draw" width="100%" alt="Profile Details"/>
+      </td>
+      <td width="35%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rrafahenrique&theme=nord_dark" width="100%" alt="GitHub Stats"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-</h1>
+---
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rafael-henrique-a86766396)
