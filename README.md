@@ -21,19 +21,4 @@ Este perfil reúne projetos práticos que desenvolvo para aplicar conhecimentos,
 
 ---
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="65%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rrafahenrique&theme=nord_dark&animation=draw" width="100%" alt="Profile Details"/>
-      </td>
-      <td width="35%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rrafahenrique&theme=nord_dark" width="100%" alt="GitHub Stats"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rafael-henrique-a86766396)
